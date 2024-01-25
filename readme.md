@@ -17,5 +17,7 @@ The following guides illustrate how to use some features concretely:
 
 `springboot + graphql + spring-data-jdbc/spring-data-jpa`
 
-
+[DGS Code Generation](https://netflix.github.io/dgs/generating-code-from-schema/)
 ![picture](crimea_thrust.png)
+
+[graphql](https://graphql.org/learn/)
